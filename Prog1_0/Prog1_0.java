@@ -10,6 +10,8 @@ public class Prog1_0 {
 		radio=leerradio.nextInt();
 		
 		double volumen;
+		
+		volumen = (4 * (Math.PI) * (Math.pow(radio,3))/3);
 
 	}
 
