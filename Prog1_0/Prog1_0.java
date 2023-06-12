@@ -8,6 +8,8 @@ public class Prog1_0 {
 		int radio;
 		System.out.println("Introduce el radio de la esfera");
 		radio=leerradio.nextInt();
+		
+		double volumen;
 
 	}
 
