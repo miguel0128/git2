@@ -21,6 +21,13 @@ public class Prog1_0 {
 		System.out.println("El área de la esfera es "+area);
 		System.out.println("Finalizado Version 2");
 		
+		double longitud;
+		longitud = 2 * (Math.PI)* radio;
+		
+		System.out.println("La longitud de la circunferencia es "+longitud);
+		System.out.println("Finalizado Version 3");
+
+		
 	}
 
 }
